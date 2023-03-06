@@ -6,7 +6,7 @@ ASP.NET-Vue-Azure-Cognitive-Service-BC-Pension
 
 ![Alt text](demo-2.png?raw=true "demo-2")
 
-![Alt text](demo-2.png?raw=true "demo-2")
+![Alt text](demo-3.png?raw=true "demo-3")
 
 
 Used:
