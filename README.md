@@ -1,5 +1,5 @@
-# TensorFlow and Django Machine Learning Immage Classification
-This Machine Learning Model is Trained with dataset of 300 images and 3,989,027 parameters to Predict Images of Chair, Sofa, Bed Objects
+
+ASP.NET-Vue-Azure-Cognitive-Service-BC-Pension
 
 ![Alt text](demo-1.jpg?raw=true "demo-1")
 
